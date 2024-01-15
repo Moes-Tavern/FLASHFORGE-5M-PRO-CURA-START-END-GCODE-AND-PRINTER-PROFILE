@@ -1,5 +1,5 @@
 
-STABLE BETA FLASHFORGE 5M PRO START/END GCODE 
+STABLE ALPHA FLASHFORGE 5M PRO START/END GCODE 
 
 (Still working on fine tuning the gcode but is working a lot better. You no longer need to change the M140 S50, M104 T0 S210 to whatever bed temp and nozzle temp like you did in V1.
 
